@@ -2,10 +2,10 @@
   "name": "SUSHIES Official Token",
   "symbol": "ROLLS",
    
-        image: "https://raw.githubusercontent.com/rabbit-sol/t8w_tokens/main/token.png",
+   "image": "https://raw.githubusercontent.com/rabbit-sol/t8w_tokens/main/token.png",
         // we don't need that
-        sellerFeeBasisPoints: 1,
-        creators: null,
-        collection: null,
-        uses: null
+        "sellerFeeBasisPoints": 1,
+        "creators": null,
+        "collection": null,
+        "uses": null
 }
