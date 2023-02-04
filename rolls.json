@@ -4,7 +4,7 @@
    
    "image": "https://raw.githubusercontent.com/rabbit-sol/t8w_tokens/main/token.png",
        
-        "sellerFeeBasisPoints": 1,
+        "sellerFeeBasisPoints": 0,
         "creators": null,
         "collection": null,
         "uses": null
