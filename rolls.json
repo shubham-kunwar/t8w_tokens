@@ -1,11 +1,7 @@
 {
   "name": "SUSHIES Official Token",
   "symbol": "ROLLS",
-   
-   "image": "https://raw.githubusercontent.com/rabbit-sol/t8w_tokens/main/token.png",
-       
-        "sellerFeeBasisPoints": 0,
-        "creators": null,
-        "collection": null,
-        "uses": null
+   "description":"The Sushies official utility token.",
+   "image": "https://raw.githubusercontent.com/rabbit-sol/t8w_tokens/main/token.png"
+     
 }
